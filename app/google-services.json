@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "400969853452",
+    "firebase_url": "https://uvindu-a73ab-default-rtdb.firebaseio.com",
+    "project_id": "uvindu-a73ab",
+    "storage_bucket": "uvindu-a73ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400969853452:android:b79da0b786289b2d9a5c29",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400969853452-ignedlltl351kk710o2tg65s0anklsa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9r3fpobpdn2wcsnPmPYWfyqwkYIBp0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400969853452-ignedlltl351kk710o2tg65s0anklsa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400969853452:android:e00df9b0479415f99a5c29",
+        "android_client_info": {
+          "package_name": "com.example.uvindu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400969853452-ignedlltl351kk710o2tg65s0anklsa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9r3fpobpdn2wcsnPmPYWfyqwkYIBp0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400969853452-ignedlltl351kk710o2tg65s0anklsa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
